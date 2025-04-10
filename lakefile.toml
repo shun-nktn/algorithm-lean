@@ -1,0 +1,7 @@
+name = "algorithm-lean"
+version = "0.1.0"
+defaultTargets = ["algorithm-lean"]
+
+[[lean_lib]]
+name = "AlgorithmLean"
+
